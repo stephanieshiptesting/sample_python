@@ -4,6 +4,7 @@ python:
   - 2.6
 
 build_image:
+  privileged: true
   
 install:
   - pip install -r requirements.txt
