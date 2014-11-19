@@ -24,4 +24,3 @@ script:
 notifications:
   email:
    - exampleone@org.com
-#change 1 in master branch
