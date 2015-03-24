@@ -3,7 +3,7 @@ language: python
 python:
   - 2.6
   
-build_image: shippableImages/ubuntu1204_python:latest
+build_image: shippableimages/ubuntu1204_python:latest
   
 install:
   - pip install -r requirements.txt
